@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=a-n-u-b-h-a-v" alt="a-n-u-b-h-a-v" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/anubhav" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav?logo=twitter&style=for-the-badge" alt="anubhav" /></a> </p>
+<p align="left"> <a href="https://instagram.com/anubhav__gusain" target="blank"><img src="https://img.shields.io/twitter/follow/anubhav?logo=twitter&style=for-the-badge" alt="anubhav" /></a> </p>
 
 - 🌱 I’m currently learning **Generative AI , RAG**
 
